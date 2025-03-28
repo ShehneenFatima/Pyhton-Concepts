@@ -1,0 +1,4 @@
+Hello,welcome to file-handling in python!
+This is the first line.
+Lets master file handling!
+Appending a new line to the file.
